@@ -1,7 +1,3 @@
 # TestProjestJavaFx
-first year in college project in java FX MVC
-the project has to be done in form of MVC  
-the file you need to active the project is program 
-the MVC files is view , program and controler
-the project in a form of a normal java files is in main file
+In short, this project asked to insert the database I built in SQL in the code attached to the project I did last year, the use was made in DATABASE files
 have fun :)
