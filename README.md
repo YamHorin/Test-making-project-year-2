@@ -1,3 +1,1 @@
-# THE SQL KNOWLEGE -TASTING -PROJECT- IN -THE JAVA
-In short, this project asked to insert the database I built in SQL in the code attached to the project I did last year, the use was made in DATABASE files
-have fun :)
+A project as part of a database and object-oriented programming course, a system with which you can create tests (American / with open answers / mixed) based on a database of courses and question text found on the SQL server
