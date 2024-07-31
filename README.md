@@ -70,4 +70,12 @@ Note: JDK is located in `/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Conte
 4. Once done click on Ok.
 ### linux 
 
-fllow this [link](https://www.oracle.com/java/technologies/install-javafx-sdk.html)
+* follow this [link](https://www.oracle.com/java/technologies/install-javafx-sdk.html)
+## ECLIPSE IDE
+</p>
+<div align="center">
+ <img alt="my sql" height="200px" src="https://algol.dev/wp-content/uploads/2020/10/logo-eclipse.png">
+</div>
+* it's recommanded to setup this project from the ECLIPSE IDE
+Eclipse is an open and free software platform for developing rich client-side applications. Eclipse is managed by the Eclipse Foundation, a non-profit organization that outlines the development directions of the platform. Many development tools are currently developed on top of Eclipse and some of them are managed as sub-projects within the Eclipse Foundation.
+* to install eclipse : click on this [link](https://www.eclipse.org/downloads/)
