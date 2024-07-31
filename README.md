@@ -1,4 +1,8 @@
 # project java FX test making 
+</p>
+<div align="center">
+ <img alt="test" height="200px" src="https://images.metroparent.com/wp-content/uploads/2020/12/MEAP-Test-Taking-Tips-for-Kids.jpg">
+</div>
 
 * A project as part of a database and object-oriented programming course, a system with which you can create tests (American / with open answers / mixed) based on a database of courses and question text found on the SQL server
 * instructions of the project are in the PDF file 
