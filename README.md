@@ -15,6 +15,35 @@
 ```
 java program.java
 ```
+## how is that look?
+* opening screen
+
+</p>
+<div align="center">
+ <img alt="test img 1" height="200px" src="https://i.imgur.com/m0StdS1.jpeg">
+</div>
+
+* all questions
+
+</p>
+<div align="center">
+ <img alt="test img 2" height="200px" src="https://i.imgur.com/SOQyFei.jpeg">
+</div>
+
+* making an automatic test
+
+</p>
+<div align="center">
+ <img alt="test img 3" height="200px" src="https://i.imgur.com/GFRTO1d.jpeg">
+</div>
+
+
+
+</p>
+<div align="center">
+ <img alt="test img 4" height="200px" src="https://i.imgur.com/Y8P7Vxo.jpeg">
+</div>
+
 
 
 ## tools that i used in the project 
